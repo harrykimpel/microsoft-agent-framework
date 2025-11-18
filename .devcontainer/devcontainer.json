@@ -6,7 +6,7 @@
     "ghcr.io/devcontainers/features/powershell:1.5.1": {},
     "ghcr.io/devcontainers/features/azure-cli:1.2.8": {}
   },
-  "workspaceFolder": "/workspaces/agent-framework/dotnet/",
+  "workspaceFolder": "/workspaces/microsoft-agent-framework/dotnet/",
   "customizations": {
     "vscode": {
       "extensions": [
